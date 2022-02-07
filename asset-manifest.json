@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/monster-card-app/static/css/main.37a9f122.css",
-    "main.js": "/monster-card-app/static/js/main.dce5efd7.js",
+    "main.css": "/monster-card-app/static/css/main.0e6f10d8.css",
+    "main.js": "/monster-card-app/static/js/main.e24dca3e.js",
     "static/js/787.59331b07.chunk.js": "/monster-card-app/static/js/787.59331b07.chunk.js",
     "index.html": "/monster-card-app/index.html",
-    "main.37a9f122.css.map": "/monster-card-app/static/css/main.37a9f122.css.map",
-    "main.dce5efd7.js.map": "/monster-card-app/static/js/main.dce5efd7.js.map",
+    "main.0e6f10d8.css.map": "/monster-card-app/static/css/main.0e6f10d8.css.map",
+    "main.e24dca3e.js.map": "/monster-card-app/static/js/main.e24dca3e.js.map",
     "787.59331b07.chunk.js.map": "/monster-card-app/static/js/787.59331b07.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.37a9f122.css",
-    "static/js/main.dce5efd7.js"
+    "static/css/main.0e6f10d8.css",
+    "static/js/main.e24dca3e.js"
   ]
 }
