@@ -39,7 +39,7 @@ class App extends Component {
     );
   }
 }
-/* Nuevo cambio 1 */
+/* Nuevo cambio 2 */
 
 /*<input
           type="search"
